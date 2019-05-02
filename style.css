@@ -1,0 +1,28 @@
+.fa-download {
+    color: #009973;
+  }
+
+  .fa-cut {
+    color: #009973;
+  }
+
+  .fa-user {
+    color: #009973;
+  }
+
+  .fa-pencil-alt {
+    color: #009973;
+  }
+
+  #section-header {
+    background-color: #eee;
+    padding: 30px 0;
+  }
+
+  #section-header .text_color {
+    color: pink;
+  }
+
+  .card .card-body p {
+    height: 350px;
+  }
